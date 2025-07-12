@@ -25,3 +25,10 @@ Email has become one of the most important communication tools, but with its gro
 -Visualizations of word clouds and the most common spam/ham words.
 
 -Model persistence using pickle for deployment purposes.
+
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+
